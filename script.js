@@ -1,3 +1,5 @@
+/*Solutions are committed to the same branch inside the SOLUTIONS folder.*/
+
 /*
   STEP 1: SELECT YOUR ELEMENTS FROM THE DOM
   You need to grab each part of the calculator from the HTML.
