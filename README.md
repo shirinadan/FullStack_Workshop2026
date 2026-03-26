@@ -13,6 +13,36 @@ This activity is designed to help you practice:
 - Styling with **Tailwind CSS** utility classes
 
 ---
+# Getting Started
+
+Follow these steps to get your own copy of the project and run it locally.
+
+---
+
+## Step 0 
+### If you ALREADY forked:
+1. Go to VS Code Terminal  
+2. Open your folder where the repo lives  
+3. Navigate to the folder:
+
+```bash
+cd path-to-your-folder
+```
+4. Pull the latest updates:
+
+```bash
+git pull
+```
+
+5. Switch to the required branch:
+
+```bash
+git checkout Day5
+```
+
+6. Continue from Step 3 
+
+---
 
 ## Step 1 — Fork the Repo
 
@@ -48,6 +78,12 @@ cd inoted-dashboard
 Before you can run the project, you need to install the packages it depends on. This only needs to be done once.
 
 ```bash
+npm create vite@latest <app-name>
+```
+Choose the framework - React and variant - JacaScript
+
+```bash
+cd <app-name>
 npm install
 ```
 
