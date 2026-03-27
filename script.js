@@ -48,3 +48,9 @@ clearBtn.addEventListener("click", () => {
 });
 
 // ── TASKS: code below this line ────────────────────────────
+  //GREET BUTTONS CHANGES COLORS ON HOOVERING OVER 
+    greetBtn.addEventListener("mouseover", () => {
+      greetBtn.style.backgroundColor = "purple";
+    });
+    greetBtn.addEventListener("mouseout", () => {
+      greetBtn.style.backgroundColor = "Blue";});
